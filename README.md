@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proof
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# DojoDember
+code developed in Dember dojo
+>>>>>>> ea27ec1ab93d996c7ca299d8b56dff193df93225
