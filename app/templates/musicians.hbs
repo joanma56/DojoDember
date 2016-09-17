@@ -1,0 +1,15 @@
+<div class="jumbo">
+<div class="right tomster"></div>
+<h2>MUSICIANS PAGE </h2>
+<p>
+we hope you find what you're looking for.
+<br>Review our list of Musicians.
+</p>
+{{#link-to 'aboutUs' class="button"}}
+About us
+{{/link-to}}
+</div>    
+{{#each model as |mus|}}
+	{{musicians-listing music=mus}}
+{{/each}}
+{{outlet}}
